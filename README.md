@@ -13,5 +13,3 @@ In the last few years I have grown into and use Flutter a lot. I try to develop 
 [![](https://img.shields.io/static/v1?label=flutter&message=flutter_expandable_table&color=red??style=for-the-badge&logo=GitHub)](https://github.com/rickypid/flutter_expandable_table)</br>
 [![](https://img.shields.io/static/v1?label=flutter&message=flutter_scroll_shadow&color=red??style=for-the-badge&logo=GitHub)](https://github.com/rickypid/flutter_scroll_shadow)</br>
 [![](https://img.shields.io/static/v1?label=flutter&message=flutter_bargraph&color=red??style=for-the-badge&logo=GitHub)](https://github.com/rickypid/flutter_bargraph)</br>
-
-<a href="https://app.daily.dev/pid"><img src="https://api.daily.dev/devcards/55841d98b9dc4577a4333dd2060b80e0.png?r=qve" width="400" alt="Riccardo Cucia's Dev Card"/></a>
