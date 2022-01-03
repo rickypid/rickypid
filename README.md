@@ -24,3 +24,10 @@ In the last few years I have grown into and use Flutter a lot. I try to develop 
 ## 🤙 Support me!
 
 <a href="https://www.buymeacoffee.com/veweju" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## 📈 By numbers!
+
+[![rickypid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickypid)](https://github.com/rickypid/github-readme-stats&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickypid&layout=compact)](https://github.com/rickypid/github-readme-stats)
+
