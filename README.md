@@ -17,6 +17,10 @@ In the last few years I have grown into and use Flutter a lot. I try to develop 
 [![](https://img.shields.io/static/v1?label=flutter&message=flutter_scroll_shadow&color=red??style=for-the-badge&logo=GitHub)](https://github.com/rickypid/flutter_scroll_shadow)</br>
 [![](https://img.shields.io/static/v1?label=flutter&message=flutter_bargraph&color=red??style=for-the-badge&logo=GitHub)](https://github.com/rickypid/flutter_bargraph)</br>
 
+### Dart 
+
+[![](https://img.shields.io/static/v1?label=flutter&message=cowsay&color=red??style=for-the-badge&logo=GitHub)](https://github.com/rickypid/cowsay)</br>
+
 ### NPM
 
 [![](https://img.shields.io/static/v1?label=npm&message=iubenda-consent-solution-api&color=red??style=for-the-badge&logo=GitHub)](https://github.com/rickypid/iubenda-consent-solution-api)
