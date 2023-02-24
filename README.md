@@ -2,7 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=%2B10+yeas+software+development;learning+new+things+every+day)](https://git.io/typing-svg)
 
-My name is Riccardo and I have been developing software since the age of 12. I love learning new things every single day, keeping up to date to always apply the best solutions to my works.
+My name is Riccardo, also known as PID, and I have been passionate about technology since I was 13 years old. Since then, I have developed my passion for programming in many areas, starting as a self-taught programmer and creating Basic software for small obstacle-avoiding rovers.
+
+Over the years, I have deepened my programming knowledge, developing software in the field of industrial automation. Thanks to my school internships, I had the opportunity to enter this world and have continued to make programming my profession for over 15 years. During this time, I have developed software for systems in various sectors, including automotive, food, packaging, and energy production.
+
+In recent years, I have developed cross-platform applications for Windows, Web, Android, and iOS in Flutter, as well as web backend/APIs in Javascript/TypeScript. Together with a close friend, I founded InsideApp, a company that develops software to take our knowledge to a higher level and bring our expertise to our clients.
+
+I am very interested in computer technology, but what I am most passionate about is programming in general and solving complex problems. I am always looking for new challenges that allow me to put my skills into practice.
+
+I am very passionate about what I do, and nothing can stop my curiosity. Programming is my passion, and I look forward to discovering what new challenges the future holds.
 
 I have been working in Italy in the automotive software sector for over 10 years.🧑‍💻
 
