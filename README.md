@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=%2B10+yeas+software+development;learning+new+things+every+day)](https://git.io/typing-svg)
 
-My name is Riccardo, also known as PID, and I have been passionate about technology since I was 13 years old. Since then, I have developed my passion for programming in many areas, starting as a self-taught programmer and creating Basic software for small obstacle-avoiding rovers.
+My name is Riccardo, also known as PID, and I have been passionate about technology since I was 13 years old. Since then, I have nurtured my passion for programming in various fields, starting as a self-taught programmer and developing Basic software for small obstacle-avoiding rovers.
 
-Over the years, I have deepened my programming knowledge, developing software in the field of industrial automation. Thanks to my school internships, I had the opportunity to enter this world and have continued to make programming my profession for over 15 years. During this time, I have developed software for systems in various sectors, including automotive, food, packaging, and energy production.
+Throughout my career, I have deepened my knowledge, specializing in software development for industrial automation. For over 15 years, I have been developing software for systems in various sectors, including automotive, food, packaging, and energy production.
 
-In recent years, I have developed cross-platform applications for Windows, Web, Android, and iOS in Flutter, as well as web backend/APIs in Javascript/TypeScript. Together with a close friend, I founded InsideApp, a company that develops software to take our knowledge to a higher level and bring our expertise to our clients.
+Recently, I have focused on developing cross-platform applications for Windows, Web, Android, and iOS using Flutter, as well as backend and API solutions in JavaScript/TypeScript. Together with a close friend, I founded InsideApp, a company dedicated to creating software with the aim of enhancing our expertise and delivering quality solutions to clients.
 
-I am very interested in computer technology, but what I am most passionate about is programming in general and solving complex problems. I am always looking for new challenges that allow me to put my skills into practice.
+I have always been fascinated by technology, but my true passion lies in programming and solving complex problems. I constantly seek new challenges that allow me to test and expand my skills.
 
-I am very passionate about what I do, and nothing can stop my curiosity. Programming is my passion, and I look forward to discovering what new challenges the future holds.
+In my experience with Flutter, I have also contributed to the open-source community by developing libraries to share my work and improve or extend others' projects.
 
-I have been working in Italy in the automotive software sector for over 10 years.🧑‍💻
+I am a curious and passionate person, always eager to discover what new challenges the future holds. Programming is not just my profession—it’s my passion, and I approach it with enthusiasm every day.
 
 In the last few years I have grown into and use Flutter a lot. I try to develop libraries to share my work and help improve or extend other people's libraries.
 
