@@ -1,10 +1,10 @@
 <h1 align="center" >👋 Hi, I’m @rickypid 👀</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=%2B10+yeas+software+development;learning+new+things+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=%2B20+yeas+software+development;learning+new+things+every+day)](https://git.io/typing-svg)
 
 My name is Riccardo, also known as PID, and I have been passionate about technology since I was 13 years old. Since then, I have nurtured my passion for programming in various fields, starting as a self-taught programmer and developing Basic software for small obstacle-avoiding rovers.
 
-Throughout my career, I have deepened my knowledge, specializing in software development for industrial automation. For over 15 years, I have been developing software for systems in various sectors, including automotive, food, packaging, and energy production.
+Throughout my career, I have deepened my knowledge, specializing in software development for industrial automation. For over 20 years, I have been developing software for systems in various sectors, including automotive, food, packaging, and energy production.
 
 Recently, I have focused on developing cross-platform applications for Windows, Web, Android, and iOS using Flutter, as well as backend and API solutions in JavaScript/TypeScript. Together with a close friend, I founded InsideApp, a company dedicated to creating software with the aim of enhancing our expertise and delivering quality solutions to clients.
 
