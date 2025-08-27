@@ -2,19 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=%2B20+yeas+software+development;learning+new+things+every+day)](https://git.io/typing-svg)
 
-My name is Riccardo, also known as PID, and I have been passionate about technology since I was 13 years old. Since then, I have nurtured my passion for programming in various fields, starting as a self-taught programmer and developing Basic software for small obstacle-avoiding rovers.
+Hi, I'm Riccardo 👋
 
-Throughout my career, I have deepened my knowledge, specializing in software development for industrial automation. For over 20 years, I have been developing software for systems in various sectors, including automotive, food, packaging, and energy production.
+I’ve been passionate about technology since I was a teenager, and programming has been my profession for over 15 years.
+My background is in industrial automation software, where I’ve developed solutions for sectors such as automotive, food, packaging, and energy.
 
-Recently, I have focused on developing cross-platform applications for Windows, Web, Android, and iOS using Flutter, as well as backend and API solutions in JavaScript/TypeScript. Together with a close friend, I founded InsideApp, a company dedicated to creating software with the aim of enhancing our expertise and delivering quality solutions to clients.
+In recent years, I’ve expanded my focus to cross-platform applications (Windows, Web, Android, iOS) with Flutter, and backend/API development using JavaScript/TypeScript.
+I’m also co-founder of InsideApp, a software company dedicated to delivering innovative solutions to our clients.
 
-I have always been fascinated by technology, but my true passion lies in programming and solving complex problems. I constantly seek new challenges that allow me to test and expand my skills.
-
-In my experience with Flutter, I have also contributed to the open-source community by developing libraries to share my work and improve or extend others' projects.
-
-I am a curious and passionate person, always eager to discover what new challenges the future holds. Programming is not just my profession—it’s my passion, and I approach it with enthusiasm every day.
-
-In the last few years I have grown into and use Flutter a lot. I try to develop libraries to share my work and help improve or extend other people's libraries.
+I love solving complex problems and exploring new technologies — programming is not just my job, it’s my passion. 🚀
 
 ## 📚 My open source projects
 
@@ -27,6 +23,7 @@ In the last few years I have grown into and use Flutter a lot. I try to develop 
 | [![](https://img.shields.io/static/v1?label=flutter&message=flutter_scroll_shadow&color=red??style=for-the-badge&logo=GitHub)](https://github.com/rickypid/flutter_scroll_shadow) | [![Pub Package](https://img.shields.io/pub/v/flutter_scroll_shadow.svg?style=flat-square)](https://pub.dartlang.org/packages/flutter_scroll_shadow) | [![Pub Points](https://img.shields.io/pub/points/flutter_scroll_shadow)](https://pub.dev/packages/flutter_scroll_shadow/score) | [![Pub Likes](https://img.shields.io/pub/likes/flutter_scroll_shadow)](https://pub.dev/packages/flutter_scroll_shadow/score) |  |  |
 | [![](https://img.shields.io/static/v1?label=flutter&message=flutter_bargraph&color=red??style=for-the-badge&logo=GitHub)](https://github.com/rickypid/flutter_bargraph) | [![Pub Package](https://img.shields.io/pub/v/flutter_bargraph.svg?style=flat-square)](https://pub.dartlang.org/packages/flutter_bargraph) | [![Pub Points](https://img.shields.io/pub/points/flutter_bargraph)](https://pub.dev/packages/flutter_bargraph/score) | [![Pub Likes](https://img.shields.io/pub/likes/flutter_bargraph)](https://pub.dev/packages/flutter_bargraph/score) |  |  |
 | [![](https://img.shields.io/static/v1?label=flutter&message=flutter_supabase_chat_core&color=red??style=for-the-badge&logo=GitHub)](https://github.com/insideapp-srl/flutter_supabase_chat_core) | [![Pub Package](https://img.shields.io/pub/v/flutter_supabase_chat_core.svg?style=flat-square)](https://pub.dartlang.org/packages/flutter_supabase_chat_core) | [![Pub Points](https://img.shields.io/pub/points/flutter_supabase_chat_core)](https://pub.dev/packages/flutter_supabase_chat_core/score) | [![Pub Likes](https://img.shields.io/pub/likes/flutter_supabase_chat_core)](https://pub.dev/packages/flutter_supabase_chat_core/score) |  |  |
+| [![](https://img.shields.io/static/v1?label=flutter&message=flutter_gantt&color=red??style=for-the-badge&logo=GitHub)](https://github.com/insideapp-srl/flutter_gantt) | [![Pub Package](https://img.shields.io/pub/v/flutter_gantt.svg?style=flat-square)](https://pub.dartlang.org/packages/flutter_gantt) | [![Pub Points](https://img.shields.io/pub/points/flutter_gantt)](https://pub.dev/packages/flutter_gantt/score) | [![Pub Likes](https://img.shields.io/pub/likes/flutter_gantt)](https://pub.dev/packages/flutter_gantt/score) |  |  |
 
 ### Dart 
 
