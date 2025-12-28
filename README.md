@@ -41,11 +41,12 @@ I love solving complex problems and exploring new technologies — programming i
 
 ## 🤙 Support me!
 
-<a href="https://www.buymeacoffee.com/veweju" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤-green?logo=GitHub&style=for-the-badge)](https://github.com/sponsors/rickypid)
+
 
 ## 📈 By numbers!
 
-[![rickypid's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickypid)](https://github.com/rickypid/github-readme-stats&theme=dark)
+[![rickypid's GitHub stats](https://github-readme-stats-tau-seven-99.vercel.app/api?username=rickypid)](https://github.com/rickypid/github-readme-stats&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickypid&layout=compact)](https://github.com/rickypid/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tau-seven-99.vercel.app/api/top-langs/?username=rickypid&layout=compact)](https://github.com/rickypid/github-readme-stats)
 
