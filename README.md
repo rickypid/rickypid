@@ -45,7 +45,5 @@ I love solving complex problems and exploring new technologies — programming i
 
 ## 📈 By numbers!
 
-[![rickypid's GitHub stats](https://github-readme-stats-tau-seven-99.vercel.app/api?username=rickypid)](https://github.com/rickypid/github-readme-stats&theme=dark)
-
-[![Top Langs](https://github-readme-stats-tau-seven-99.vercel.app/api/top-langs/?username=rickypid&layout=compact)](https://github.com/rickypid/github-readme-stats)
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
